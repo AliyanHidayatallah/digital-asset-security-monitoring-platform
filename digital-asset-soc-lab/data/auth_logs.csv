@@ -1,0 +1,9 @@
+timestamp,user,ip_address,location,event_type,status
+2026-03-16 08:00:00,alice,192.168.1.10,Boston,login_success,success
+2026-03-16 08:05:00,bob,192.168.1.11,New York,login_success,success
+2026-03-16 08:10:00,charlie,203.0.113.5,Russia,login_success,success
+2026-03-16 08:12:00,charlie,203.0.113.5,Russia,mfa_failure,failed
+2026-03-16 08:20:00,alice,198.51.100.23,Germany,login_success,success
+2026-03-16 08:25:00,david,192.168.1.15,Boston,login_failure,failed
+2026-03-16 08:30:00,alice,198.51.100.23,Germany,privilege_escalation,success
+2026-03-16 08:40:00,bob,192.168.1.11,New York,login_success,success
