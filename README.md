@@ -116,3 +116,23 @@ pip install -r requirements.txt
 Run the simulation:
 python3 -m simulations.load_logs
 
+---
+
+## 🧩 Real-World Relevance
+
+This project reflects real detection mechanisms used in:
+
+- **Security Operations Centers (SOC)**
+- **Financial fraud detection systems**
+- **Cryptocurrency exchanges and custody platforms**
+- **SIEM tools such as Splunk and Microsoft Sentinel**
+
+---
+
+## 🎯 Key Concepts Demonstrated
+
+- **Log correlation across multiple data sources**
+- **Behavioral anomaly detection**
+- **Time-based attack pattern analysis**
+- **Risk scoring and severity classification**
+- **Modular detection pipeline design**
