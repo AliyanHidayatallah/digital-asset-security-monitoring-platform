@@ -1,5 +1,3 @@
-# digital-asset-security-monitoring-platform
-
 # Digital Asset Security Monitoring Platform
 
 A Python-based Security Operations Center (SOC) detection engine designed to monitor digital asset environments by analyzing authentication and transaction logs. The platform identifies suspicious behavior patterns such as account compromise, anomalous access, and potential asset exfiltration using time-based correlation and risk scoring.
